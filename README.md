@@ -1,3 +1,3 @@
 # Smart Contract Roulette
 
-![](sample.png?raw=true "SCR")
+![](sample.png?raw=true "Sm Co Ro")
